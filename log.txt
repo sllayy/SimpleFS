@@ -1,0 +1,8 @@
+[Sun May 25 14:51:35 2025] Dosya silindi: b
+[Sun May 25 14:51:53 2025] Dosyaya yazıldı: a (7 byte)
+[Sun May 25 14:52:30 2025] Dosyaya eklendi: a (+11 byte)
+[Sun May 25 14:53:58 2025] Dosya truncate edildi: b -> 2 byte
+[Sun May 25 14:54:31 2025] Dosyaya yazıldı: c (6 byte)
+[Sun May 25 14:55:00 2025] Dosya kopyalandı: c -> e
+[Sun May 25 14:55:32 2025] Disk bütünlüğü kontrol edildi.
+[Sun May 25 14:55:35 2025] Disk birleştirildi.
